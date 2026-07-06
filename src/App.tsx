@@ -330,16 +330,18 @@ export default function App() {
                   idx === heroIndex ? "opacity-100 z-10" : "opacity-0 z-0"
                 }`}
               >
-                {/* Background Cover image */}
-                <img referrerPolicy="no-referrer" src={slide.image} alt="" className="absolute inset-0 w-full h-full object-cover brightness-[0.25] blur-2xl scale-110" />
-                
-                {/* Foreground Contained Image */}
-                <div className="absolute inset-0 flex justify-end items-center pr-8 sm:pr-24 lg:pr-32 z-0 pointer-events-none opacity-80 sm:opacity-100 hidden sm:flex">
-                  <img referrerPolicy="no-referrer" src={slide.image} alt={slide.title} className="h-[80%] max-w-[45%] object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.7)]" />
+                {/* Background Cover image - Removed blur-2xl to fix mobile GPU glitch */}
+                <div className="absolute inset-0 bg-[#1A0B10]">
+                  <img referrerPolicy="no-referrer" src={slide.image} alt="" className="absolute inset-0 w-full h-full object-cover opacity-30" loading={idx === 0 ? "eager" : "lazy"} />
                 </div>
                 
-                {/* Interactive slide descriptors */}
-                <div className="absolute inset-0 bg-gradient-to-r from-brand-burgundy/40 via-transparent to-transparent z-10" />
+                {/* Foreground Contained Image - Made visible on mobile (removed hidden sm:flex) */}
+                <div className="absolute inset-0 flex justify-end items-center pr-4 sm:pr-24 lg:pr-32 z-0 pointer-events-none opacity-40 sm:opacity-100 mt-24 sm:mt-0">
+                  <img referrerPolicy="no-referrer" src={slide.image} alt={slide.title} className="h-[50%] sm:h-[80%] max-w-[50%] sm:max-w-[45%] object-contain drop-shadow-[0_20px_50px_rgba(0,0,0,0.7)]" loading={idx === 0 ? "eager" : "lazy"} />
+                </div>
+                
+                {/* Interactive slide descriptors overlay */}
+                <div className="absolute inset-0 bg-gradient-to-r from-brand-burgundy/80 via-brand-burgundy/30 to-transparent z-10" />
                 
                 <div className="absolute inset-0 flex items-center z-20">
                   <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
