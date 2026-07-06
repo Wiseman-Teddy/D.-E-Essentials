@@ -65,11 +65,11 @@ export default function Header({
               <div className="w-12 h-12 rounded-full border border-brand-gold bg-brand-burgundy flex items-center justify-center text-brand-gold font-serif text-lg font-bold shadow-md transform transition group-hover:scale-105">
                 D&E
               </div>
-              <div className="hidden sm:block">
-                <span className="font-serif block text-lg font-extrabold tracking-wider text-brand-burgundy leading-tight group-hover:text-brand-burgundy-light transition">
+              <div className="block">
+                <span className="font-serif block text-[13px] sm:text-lg font-extrabold tracking-wider text-brand-burgundy leading-tight group-hover:text-brand-burgundy-light transition">
                   D & E ESSENTIALS
                 </span>
-                <span className="font-mono text-[9px] block tracking-[0.3em] uppercase text-brand-gold font-medium">
+                <span className="font-mono text-[7px] sm:text-[9px] block tracking-[0.15em] sm:tracking-[0.3em] uppercase text-brand-gold font-medium">
                   Haute Parfumerie
                 </span>
               </div>
