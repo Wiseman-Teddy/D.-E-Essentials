@@ -1,0 +1,6 @@
+{
+  "name": "D & E Essentials",
+  "description": "Premium luxury perfume & cologne e-commerce platform with an AI Fragrance Finder (powered by Gemini), interactive Safaricom M-Pesa STK Push payment simulator, dynamic sales dashboard, and content management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

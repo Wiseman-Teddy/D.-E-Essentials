@@ -1,0 +1,547 @@
+{
+  "products": [
+    {
+      "id": "zara-deep-garden",
+      "name": "ZARA Deep Garden Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Soft, elegant, and effortlessly feminine. ✨ Experience the delicate blend of creamy white florals wrapped in juicy fruity freshness, soft tuberose depth, and a clean aquatic-green touch. The result is a graceful, feminine fragrance that feels fresh, light, and beautifully comforting all day long. 💖 Perfect for everyday wear, brunch dates, the office, and special occasions.",
+      "price": 7300,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Deep Garden.jpeg"
+      ],
+      "sku": "ZARA-DEEP-GAR-100",
+      "barcode": "ZARA1",
+      "stock": 7,
+      "fragranceFamily": "Floral",
+      "occasion": [
+        "Daily Wear",
+        "Brunch",
+        "Office",
+        "Special Occasions"
+      ],
+      "notes": {
+        "top": [
+          "Pear",
+          "White Florals"
+        ],
+        "middle": [
+          "Tuberose"
+        ],
+        "base": [
+          "Tonka Bean"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-lisboa",
+      "name": "ZARA Lisboa Eau de Toilette",
+      "brand": "ZARA",
+      "description": "Fresh, clean, and effortlessly modern. ✨ Discover Lisboa: a refreshing aquatic fragrance blended with bergamot, marine accord, lavender, and cedarwood. The result is a cool, crisp scent that feels clean, elegant, and timeless. 🩵Perfect for daily wear, office days, and warm-weather outings.",
+      "price": 5000,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Men",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Lisboa.jpeg"
+      ],
+      "sku": "ZARA-LIS-100",
+      "barcode": "ZARA2",
+      "stock": 7,
+      "fragranceFamily": "Fresh",
+      "occasion": [
+        "Daily Wear",
+        "Office",
+        "Summer"
+      ],
+      "notes": {
+        "top": [
+          "Bergamot",
+          "Marine Accord"
+        ],
+        "middle": [
+          "Lavender"
+        ],
+        "base": [
+          "Cedarwood"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-bogoss-vibrant-leather",
+      "name": "ZARA Bogoss Vibrant Leather Summer Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Fresh, vibrant, and effortlessly masculine. ✨ Experience the refreshing blend of ozonic and aquatic notes, layered with juicy fruity accords and tropical freshness, before settling into warm amber and subtle leather. The result is a clean, energetic fragrance that captures the feeling of summer in every spray. 🩵 Perfect for everyday wear, the office, vacations, gym sessions, and warm summer days.",
+      "price": 7500,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Men",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Bogoss Vibrant Leather Summer.jpeg"
+      ],
+      "sku": "ZARA-BOG-VIB-100",
+      "barcode": "ZARA3",
+      "stock": 7,
+      "fragranceFamily": "Fresh",
+      "occasion": [
+        "Daily Wear",
+        "Office",
+        "Summer",
+        "Gym"
+      ],
+      "notes": {
+        "top": [
+          "Ozonic Notes",
+          "Pineapple"
+        ],
+        "middle": [
+          "Aquatic Notes"
+        ],
+        "base": [
+          "Amber",
+          "Leather"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-tuberose",
+      "name": "ZARA Tuberose Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Soft, radiant, and effortlessly feminine. ✨ Experience the bright freshness of citrus, blended with creamy tuberose, soft vanilla, and powdery musk. The result is a delicate floral fragrance that's elegant, comforting, and beautifully long-lasting. 💖 Perfect for everyday wear, brunch dates, the office, and romantic evenings.",
+      "price": 6100,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Tuberose.jpeg"
+      ],
+      "sku": "ZARA-TUB-100",
+      "barcode": "ZARA4",
+      "stock": 7,
+      "fragranceFamily": "Floral",
+      "occasion": [
+        "Daily Wear",
+        "Brunch",
+        "Date Night"
+      ],
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "middle": [
+          "Tuberose"
+        ],
+        "base": [
+          "Vanilla",
+          "Musk"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-london-savile-row",
+      "name": "ZARA London Savile Row Mayfair Eau de Toilette",
+      "brand": "ZARA",
+      "description": "Refined, sophisticated, and effortlessly timeless. ✨ Experience the elegance of powdery iris, blended with woody and green notes, enriched by soft violet and aromatic accords. The result is a clean, modern fragrance that's smooth, masculine, and perfect for the gentleman who appreciates understated luxury. 🩵Perfect for everyday wear, the office, business meetings, evening dinners, and special occasions.",
+      "price": 5000,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Men",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA london Savile Row Mayfair Eau de Toilette.jpeg"
+      ],
+      "sku": "ZARA-LON-SAV-100",
+      "barcode": "ZARA5",
+      "stock": 7,
+      "fragranceFamily": "Woody",
+      "occasion": [
+        "Office",
+        "Business Meetings",
+        "Evening"
+      ],
+      "notes": {
+        "top": [
+          "Iris",
+          "Green Notes"
+        ],
+        "middle": [
+          "Violet"
+        ],
+        "base": [
+          "Woody Notes"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-dark-romance",
+      "name": "ZARA Dark Romance Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Deep, sensual, and irresistibly elegant. ✨ Experience a luxurious blend of creamy vanilla and sweet gourmand notes, wrapped in warm amber, soft white florals, and a rich caramel undertone. The result is a bold, romantic fragrance that feels warm, addictive, and unforgettable. 🖤Perfect for date nights, evening wear, special occasions, and cold-weather moments.",
+      "price": 7500,
+      "size": [
+        "80ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Dark Romance.jpeg"
+      ],
+      "sku": "ZARA-DAR-ROM-80",
+      "barcode": "ZARA6",
+      "stock": 7,
+      "fragranceFamily": "Gourmand",
+      "occasion": [
+        "Date Night",
+        "Evening",
+        "Special Occasions"
+      ],
+      "notes": {
+        "top": [
+          "Vanilla",
+          "Gourmand Notes"
+        ],
+        "middle": [
+          "White Florals"
+        ],
+        "base": [
+          "Amber",
+          "Caramel"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-go-fruity",
+      "name": "ZARA Go Fruity Eau de Toilette",
+      "brand": "ZARA",
+      "description": "Fresh, playful, and effortlessly joyful. ✨ Experience a vibrant burst of citrus and juicy fruits, blending mandarin, red berries, and pear with a heart of soft jasmine, peach, and tropical fruits. It settles into a warm, smooth base of musk, cedarwood, and amber for a light yet lasting fruity signature. 💖Perfect for everyday wear, casual outings, daytime events, and warm weather moments.",
+      "price": 4500,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Go Fruity.jpeg"
+      ],
+      "sku": "ZARA-GO-FRU-100",
+      "barcode": "ZARA7",
+      "stock": 7,
+      "fragranceFamily": "Fresh",
+      "occasion": [
+        "Daily Wear",
+        "Casual",
+        "Summer"
+      ],
+      "notes": {
+        "top": [
+          "Mandarin",
+          "Red Berries",
+          "Pear"
+        ],
+        "middle": [
+          "Jasmine",
+          "Peach",
+          "Tropical Fruits"
+        ],
+        "base": [
+          "Musk",
+          "Cedarwood",
+          "Amber"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-amber-fusion",
+      "name": "ZARA Amber Fusion Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Fresh, radiant, and effortlessly sophisticated. ✨ Experience the sparkling brightness of citrus, the refreshing touch of marine accords, and the warmth of amber, aromatic woods, and sandalwood. The result is a clean, elegant fragrance that's vibrant, refined, and unforgettable. ✨ Perfect for everyday wear, the office, brunch dates, vacations, and warm-weather occasions.",
+      "price": 7500,
+      "size": [
+        "80ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Amber Fusion.jpeg"
+      ],
+      "sku": "ZARA-AMB-FUS-80",
+      "barcode": "ZARA8",
+      "stock": 7,
+      "fragranceFamily": "Oriental",
+      "occasion": [
+        "Daily Wear",
+        "Office",
+        "Brunch",
+        "Vacation"
+      ],
+      "notes": {
+        "top": [
+          "Citrus",
+          "Marine Accord"
+        ],
+        "middle": [
+          "Aromatic Woods"
+        ],
+        "base": [
+          "Amber",
+          "Sandalwood"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-man-silver",
+      "name": "ZARA Man Silver Eau de Toilette",
+      "brand": "ZARA",
+      "description": "Fresh, clean, and effortlessly masculine. ✨ 🩵 If you love Dior Sauvage, you'll enjoy Zara Man Silver. It delivers a fresh, citrus-woody scent with a clean masculine character at a fraction of the price. ✨ Perfect for everyday wear, the office, casual outings, gym sessions, and warm-weather days.",
+      "price": 4500,
+      "size": [
+        "90ml"
+      ],
+      "gender": "Men",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Man Silver.jpeg"
+      ],
+      "sku": "ZARA-MAN-SIL-90",
+      "barcode": "ZARA9",
+      "stock": 7,
+      "fragranceFamily": "Woody",
+      "occasion": [
+        "Daily Wear",
+        "Office",
+        "Gym",
+        "Summer"
+      ],
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "middle": [
+          "Woody Notes"
+        ],
+        "base": [
+          "Musk"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-pink-flambe",
+      "name": "ZARA Pink Flambé Eau de Toilette",
+      "brand": "ZARA",
+      "description": "Bright, playful, and effortlessly feminine. 💖 💖 If you love Dolce & Gabbana Light Blue, you'll adore Zara Pink Flambé. It offers a similarly fresh, citrusy and effortlessly chic vibe at a fraction of the price. ✨ Perfect for everyday wear, brunch dates, the office, vacations, and warm sunny days.",
+      "price": 5000,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Pink Flambe.jpeg"
+      ],
+      "sku": "ZARA-PIN-FLA-100",
+      "barcode": "ZARA10",
+      "stock": 7,
+      "fragranceFamily": "Citrus",
+      "occasion": [
+        "Daily Wear",
+        "Brunch",
+        "Office",
+        "Vacation"
+      ],
+      "notes": {
+        "top": [
+          "Citrus"
+        ],
+        "middle": [
+          "Floral Notes"
+        ],
+        "base": [
+          "Woody Notes"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-hypnotic-vanilla",
+      "name": "ZARA Hypnotic Vanilla Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Warm, creamy, and irresistibly addictive. ✨ Indulge in the comforting sweetness of rich vanilla bourbon, delicious caramel, delicate apricot blossom, and elegant jasmine. The result is a smooth, luxurious fragrance that feels cozy, sophisticated, and effortlessly captivating. 💖 If you love Billie Eilish Eau de Parfum or Kayali Vanilla 28, you'll adore Zara Hypnotic Vanilla. It offers a similar rich, creamy vanilla experience with warm caramel and floral touches—at a fraction of the price.",
+      "price": 7500,
+      "size": [
+        "80ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Hypnotic Vanila.jpeg"
+      ],
+      "sku": "ZARA-HYP-VAN-80",
+      "barcode": "ZARA11",
+      "stock": 7,
+      "fragranceFamily": "Gourmand",
+      "occasion": [
+        "Evening",
+        "Winter",
+        "Special Occasions"
+      ],
+      "notes": {
+        "top": [
+          "Vanilla Bourbon",
+          "Caramel"
+        ],
+        "middle": [
+          "Apricot Blossom",
+          "Jasmine"
+        ],
+        "base": [
+          "Musk"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    },
+    {
+      "id": "zara-fields-at-nightfall-intense",
+      "name": "ZARA Fields at Nightfall Intense Eau de Parfum",
+      "brand": "ZARA",
+      "description": "Warm, sensual, and deeply captivating. ✨ Experience a rich blend of amber and warm spicy notes, wrapped in smooth vanilla sweetness and creamy white florals. Hints of soft powdery elegance and balsamic depth create a fragrance that feels bold, comforting, and irresistibly addictive. 🤎 If you love warm, sweet, seductive scents like YSL Libre Intense or Carolina Herrera Good Girl Blush Intense, you'll adore Zara Fields at Nightfall Intense. It delivers a luxurious amber-vanilla warmth with a soft floral touch at a fraction of the price.",
+      "price": 7500,
+      "size": [
+        "100ml"
+      ],
+      "gender": "Women",
+      "rating": 0,
+      "reviewsCount": 0,
+      "images": [
+        "/images/products catalog and hero slider/ZARA Fields at Nightfall intense.jpeg"
+      ],
+      "sku": "ZARA-FIE-NIG-INT-100",
+      "barcode": "ZARA12",
+      "stock": 7,
+      "fragranceFamily": "Oriental",
+      "occasion": [
+        "Evening",
+        "Date Night",
+        "Winter"
+      ],
+      "notes": {
+        "top": [
+          "Amber",
+          "Warm Spicy Notes"
+        ],
+        "middle": [
+          "Vanilla",
+          "White Florals"
+        ],
+        "base": [
+          "Powdery Notes",
+          "Balsamic Notes"
+        ]
+      },
+      "ingredients": [],
+      "reviews": []
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "c1",
+      "title": "Grand Opening Offer",
+      "description": "Get 15% off all premium fragrances on your first purchase.",
+      "code": "WELCOME15",
+      "discountValue": 15,
+      "discountType": "percentage",
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-31",
+      "status": "active"
+    },
+    {
+      "id": "c2",
+      "title": "Luxury Discount",
+      "description": "Get Ksh 30 off orders above Ksh 200 for a luxury experience.",
+      "code": "LUXURY30",
+      "discountValue": 30,
+      "discountType": "fixed",
+      "startDate": "2026-07-01",
+      "endDate": "2026-12-31",
+      "status": "active"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "b1",
+      "title": "The Art of Scent Layering: How to Create Your Signature Fragrance",
+      "excerpt": "Learn how to expertly combine different fragrance families to create an entirely unique scent profile that is personal, luxurious, and unforgettable.",
+      "content": "Scent layering—or fragrance combining—is the practice of applying more than one perfume at a time to create a personalized, completely unique olfactory signature. While it might sound intimidating, layering is an ancient and revered art in Middle Eastern fragrance cultures.\n\n### Where to Start\nThe secret is starting with clean, hydrated skin. Applying a rich moisturizer first helps hold fragrance molecules on your skin longer. Start with the heaviest scent first. If you want to layer **Mystical Oud** with **Rose Satin**, apply Mystical Oud first so its rich, heavy wood notes don't drown out the delicate, sweet rose petals of Rose Satin.\n\n### Complementary vs. Contrast\n- **Complementary Pairing**: Stay within the same fragrance family. Layering Imperial Sandalwood with a cedar-forward fresh perfume deepens the dry wood undertones.\n- **Contrast Pairing**: Fusing opposites. Applying zesty Celestial Fresh over a warm amber base like Red Seduction creates an alluring sparkle backed by addictive warmth.\n\nExperiment, keep it subtle, and start with just a couple of sprays of each!",
+      "image": "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&q=80&w=600",
+      "author": "Lady Isabella, Master Perfumer",
+      "date": "2026-06-15",
+      "category": "Perfume Guides",
+      "tags": [
+        "Scent Layering",
+        "Fragrance Guides",
+        "Oud",
+        "Sandalwood"
+      ],
+      "likes": 245
+    },
+    {
+      "id": "b2",
+      "title": "Understanding Fragrance Notes: Top, Middle & Base Explained",
+      "excerpt": "Ever wondered why a perfume smells different after an hour? Discover the fascinating lifecycle of luxury fragrances from the initial spray to the dry-down.",
+      "content": "When you first spray a perfume, the immediate scent you experience is rarely what you will smell three hours later. Fragrances are carefully formulated as three-part symphonies: Top Notes, Middle (Heart) Notes, and Base Notes.\n\n### The Top Notes: The Opening Act\nTop notes are the lightest molecules. They evaporate quickly—usually within 15 to 30 minutes. Their purpose is to make the initial impression. Citrus oils like bergamot, lime, and grapefruit, along with light fruits and fresh herbs, are traditional top notes. Think of them as the dazzling welcome to the scent.\n\n### The Heart Notes: The Core Symphony\nOnce the top notes disperse, the middle notes emerge. Often referred to as the 'heart' of the fragrance, these molecules are more full-bodied and last for 2 to 4 hours. Flowers like Damascus rose, lavender, jasmine, and warm spices like cardamom are signature middle notes. They give the perfume its true character and bridge the top to the base.\n\n### The Base Notes: The Lingering Trail\nFinally, the base notes arrive. These are the heaviest, most complex molecules. They evaporate very slowly, lingering on your skin for 6 to 12+ hours. Base notes hold the perfume together and provide longevity. Elements like Cambodian agarwood (oud), Mysore sandalwood, Tuscan leather, vanilla orchid, and rich musks form these luxurious foundations.\n\nKnowing this note pyramid allows you to select fragrances that mature exactly the way you want on your skin!",
+      "image": "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&q=80&w=600",
+      "author": "Dr. Ethan Brooks, Scent Historian",
+      "date": "2026-06-28",
+      "category": "Fragrance Science",
+      "tags": [
+        "Notes Explained",
+        "Scent Science",
+        "Longevity",
+        "Perfume Tips"
+      ],
+      "likes": 189
+    }
+  ],
+  "orders": []
+}

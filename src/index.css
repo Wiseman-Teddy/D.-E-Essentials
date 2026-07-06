@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cinzel", Georgia, serif;
+  --font-sans: "Montserrat", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  --color-brand-cream: #FDF9F3;
+  --color-brand-cream-dark: #FAF2E5;
+  --color-brand-gold-light: #EFE4D4;
+  --color-brand-gold: #C5A880;
+  --color-brand-gold-hover: #B5966B;
+  --color-brand-gold-dark: #917551;
+  --color-brand-burgundy-light: #5C1926;
+  --color-brand-burgundy: #3F0A14;
+  --color-brand-burgundy-dark: #230409;
+}
+
+/* Custom scrollbar for premium touch */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FDF9F3;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C5A880;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3F0A14;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-brand-cream);
+  color: var(--color-brand-burgundy);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, .font-serif-lux {
+  font-family: var(--font-serif);
+  letter-spacing: 0.05em;
+}
+
+/* Luxury animations and glows */
+.gold-gradient {
+  background: linear-gradient(135deg, #DFBA73 0%, #C5A059 50%, #9E7D3B 100%);
+}
+
+.gold-text-gradient {
+  background: linear-gradient(135deg, #DFBA73 0%, #C5A059 50%, #9E7D3B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.burgundy-gradient {
+  background: linear-gradient(135deg, #5C1926 0%, #3F0A14 50%, #230409 100%);
+}
+
+.gold-glow {
+  box-shadow: 0 4px 20px -2px rgba(197, 168, 128, 0.25);
+}
+
+.gold-glow-hover:hover {
+  box-shadow: 0 10px 25px -3px rgba(197, 168, 128, 0.4);
+}
